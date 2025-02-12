@@ -9,4 +9,4 @@ Para rodar os códigos, utilize a plataforma **MARS MIPS**.
 🔗 **Download do MARS**: [Acesse o site oficial](https://computerscience.missouristate.edu/mars-mips-simulator.htm)  
 
 ## Lista 
-A lista de referência utilizada está em pdf
+A lista de referência utilizada está em no pdf "Lista 1"
